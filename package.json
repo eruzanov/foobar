@@ -1,0 +1,11 @@
+{
+  "name": "foobar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eruzanov/foobar.git",
+  "author": "eugene.ruzanov <eugene.ruzanov@yandex.ru>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
